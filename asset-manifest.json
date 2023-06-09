@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/VanyaKruto/Shop/static/css/main.19710d0e.css",
+    "main.js": "/VanyaKruto/Shop/static/js/main.f051209d.js",
+    "index.html": "/VanyaKruto/Shop/index.html",
+    "main.19710d0e.css.map": "/VanyaKruto/Shop/static/css/main.19710d0e.css.map",
+    "main.f051209d.js.map": "/VanyaKruto/Shop/static/js/main.f051209d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19710d0e.css",
+    "static/js/main.f051209d.js"
+  ]
+}
